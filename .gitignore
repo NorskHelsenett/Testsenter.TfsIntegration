@@ -302,4 +302,4 @@ __pycache__/
 *.xsd.cs
 
 # OpenCover UI analysis results
-OpenCover/
+OpenCover/TfsIntegrationTests/TfsTests.cs
