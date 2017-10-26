@@ -1,3 +1,6 @@
 [submodule "Testsenter.Common"]
 	path = Testsenter.Common
 	url = https://github.com/ehelse/Testsenter.Common
+[submodule "Testsenter.Testframework"]
+	path = Testsenter.Testframework
+	url = https://github.com/ehelse/Testsenter.Testframework/
